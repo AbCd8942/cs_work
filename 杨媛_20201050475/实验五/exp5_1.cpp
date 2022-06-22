@@ -50,5 +50,5 @@ int main(int argc, char** argv) {
     glMatrixMode(GL_MODELVIEW);
     glutDisplayFunc(BresenhamCircle);//调用renderScene把绘制传送到窗口
     glutMainLoop(); //进入循环等待
-    return 1;
+    return 0;
 }
