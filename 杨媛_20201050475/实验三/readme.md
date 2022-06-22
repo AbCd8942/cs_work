@@ -1,0 +1,3 @@
+# 实验三 Bresenham、 改进Bresenham算法生成直线段实验
+exp3_1的代码通过Bresenham中点算法生成直线段
+exp3_2的代码通过改进Bresenham中点算法生成直线段
